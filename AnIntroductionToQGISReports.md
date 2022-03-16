@@ -1,5 +1,7 @@
 # An introduction to QGIS Reports
 
+This document and example files are available at [https://github.com/kartoza/QGISReportsWorkshop](https://github.com/kartoza/QGISReportsWorkshop)
+
 ## Presentation Outline
 
 * Assumptions when viewing this talk.
@@ -174,6 +176,10 @@ def reset_serial_var(variable, feature, parent):
 ```
 
 ### Table of Contents
+
+Use a no geometry layer to store the contents list:
+
+![Table Structure](./slide_images/ReportContentsTable.png)
 
 
 Pad out the section name so the table fills the page width 
