@@ -48,7 +48,7 @@ Multiple atlasses | ✓ | ❌
 Page numbering consistent throughout document | ❌ | ✓
 Generate PDF via processing algorithm| ❌ | ✓
 Generate PDF via QGIS Server | ❌ | ✓
-Generate PDF via Python API | ? | ❌
+Generate PDF via Python API | ? | ✓
 Export to QPT | ❌ | ✓
 
 Also note the differences in the Atlas variables exposed.
