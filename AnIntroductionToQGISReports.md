@@ -1,5 +1,12 @@
 # An introduction to QGIS Reports
 
+
+[![YouTube Video](https://img.youtube.com/vi/rYqGYfUMfiw/0.jpg)](https://www.youtube.com/watch?v=rYqGYfUMfiw)
+
+[Watch YouTube Video](https://www.youtube.com/watch?v=rYqGYfUMfiw)
+
+
+
 This document and example files are available at [https://github.com/kartoza/QGISReportsWorkshop](https://github.com/kartoza/QGISReportsWorkshop)
 
 ## Presentation Outline
