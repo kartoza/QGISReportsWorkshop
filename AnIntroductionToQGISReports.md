@@ -28,6 +28,12 @@ We assume you are already familiar with:
 * expressions
 * some lightweight python coding is also covered here (not essential to benifit from this talk though)
 
+## Further reading
+
+Beyond what I present here, do check out these resources:
+
+* https://north-road.com/2018/01/23/exploring-reports-in-qgis-3-0-the-ultimate-guide/
+
 ## Why Reports?
 
 One click process to create multiple atlasses combined in a single document along with arbitrary number of statically created pages.
